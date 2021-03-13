@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.text-christmas {
+  color: #DE3B49;
+}
+
+.ls-1 {
+  letter-spacing: 1px;
+}
+
+.btn-christmas {
+  background-color: #DE3B49;
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  outline: none;
+}
+
+.bg-christmas {
+  background-color: #DE3B49;
+}
+
+.pt-8 {
+  padding: 80px 0 0 0;
+}
+
+.scrolling-button {
+  position: fixed;
+  bottom: 2%;
+  right: 3%;
+  padding: 15px 20px;
+  background-color: #DE3B49;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+}
